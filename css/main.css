@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1c3c18;
+  background: #d75017;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2702,6 +2702,13 @@ vpower.txt-right {
   display: none;
 }
 .vpower {
+  display: none;
+}
+vempty,
+.vempty {
+  display: none;
+}
+.vempty {
   display: none;
 }
 vpower.txt-right {
