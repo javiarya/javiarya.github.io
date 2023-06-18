@@ -1,3 +1,9 @@
+vpower.txt-right {
+  display: none;
+}
+.vpower {
+  display: none;
+}
 :root {
   --body-bg-color: #eee;
   --content-bg-color: #fff;
@@ -1168,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #0df6ff;
+  background: #1c3c18;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2693,5 +2699,14 @@ body {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 vpower.txt-right {
+  display: none;
+}
+.vpower {
+  display: none;
+}
+vpower.txt-right {
+  display: none;
+}
+.vpower {
   display: none;
 }
