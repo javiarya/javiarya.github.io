@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff2a14;
+  background: #ffff5d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2698,18 +2698,25 @@ body {
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
-vpower.txt-right {
+.power.txt-right {
   display: none;
 }
-.vpower {
-  display: none;
+div#comments.comments.v {
+  margin-left: 0px;
+  margin-right: 0px;
+  border: 0px;
 }
-vempty,
-.vempty {
-  display: none;
+.vsys {
+  display: none !important;
 }
-.vempty {
-  display: none;
+.vcopy {
+  display: none !important;
+}
+.power {
+  display: none !important;
+}
+.power.txt-right {
+  display: none !important;
 }
 vpower.txt-right {
   display: none;
